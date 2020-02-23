@@ -47,7 +47,7 @@ plugins:
   - jekyll-paginate  #分页
   - jekyll-gist    #可以插入git代码块
   # - jekyll-seo-tag  #更好的被搜索引擎抓取
-  - jekyll-sitemap
+  - jekyll-sitemap   #站点地图
   # - disqus-for-jekyll   #评论插件
 
 collections:
