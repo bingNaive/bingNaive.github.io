@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Gray - Single column blog and portfolio Jekyll theme",
+    "title": "个人技术博客",
     "home_page_url": "http://localhost:4000/",
     "feed_url": "http://localhost:4000/feed.json",
     "description": "Gray - Single column blog and portfolio Jekyll theme",
@@ -8,7 +8,7 @@
     "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     
-    "author": "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}",
+    "author": "张冰冰",
     
 "items": [
     
@@ -28,7 +28,7 @@
             "date_modified": "2020-02-23T00:00:00+08:00",
             
                 "author": 
-                "{"name"=>nil, "email"=>nil, "url"=>nil, "avatar"=>nil}"
+                "张冰冰"
                 
             
         }

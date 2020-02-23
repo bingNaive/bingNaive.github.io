@@ -1,35 +1,14 @@
-site: Gray - Single column blog and portfolio Jekyll theme
-url: # url
-author: # your name
-author:
-  name: # your name
-  email: # your email 
-  url: # url
-  avatar: 
-title: Gray - Single column blog and portfolio Jekyll theme
+url: http://bingnaive.github.io
+author: 张冰冰
+title: 个人技术博客
 description: Gray - Single column blog and portfolio Jekyll theme
+github_username: bingNaive
 logo: 
 image: 
-twitter: # twitter 
-twitter:
-  username: # twitter
-  creator: # twitter
-  card: summary
 social:
-  name: Ronalds Vilcins
+  name: 天真
   links:
-    - https://twitter.com/example
-    - https://www.dribbble.com/example
-    - https://github.com/example
-    - https://codepen.io/example
-  
-repository: ronv/website
-
-permalink: pretty
-
-disqus:
-  name: "your username" # required
-  noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
+    - https://github.com/bingNaive
 
 paginate:            1000
 paginate_path:       "/page:num/"
